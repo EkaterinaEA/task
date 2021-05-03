@@ -1,4 +1,4 @@
-//Напишите Java-программу для обхода ArrayList с использованием цикла for, while и улучшенного цикла for.
+package train1;//Напишите Java-программу для обхода ArrayList с использованием цикла for, while и улучшенного цикла for.
 
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-//Напишите Java-программу для удаления всех пробелов из строки без использования replace().
+package train1;//Напишите Java-программу для удаления всех пробелов из строки без использования replace().
 
 public class Task15 {
     public static void main(String[] args) {

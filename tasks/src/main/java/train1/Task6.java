@@ -1,4 +1,4 @@
-//Напишите Java-программу для итерации объекта типа HashMap с использованием цикла while и улучшенного цикла for.
+package train1;//Напишите Java-программу для итерации объекта типа HashMap с использованием цикла while и улучшенного цикла for.
 
 import java.util.HashMap;
 import java.util.Iterator;

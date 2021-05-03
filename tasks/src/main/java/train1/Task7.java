@@ -1,4 +1,4 @@
-// простое число или нет
+package train1;// простое число или нет
 
 import java.util.Scanner;
 
